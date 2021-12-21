@@ -1,0 +1,30 @@
+.center 
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+.imgSize
+{
+    width: 800px;
+    height: 600;
+    margin-top: 20px;
+}
+body
+{
+    font-family: Tahoma, sans-serif;
+    padding-right: 10% ;
+    padding-right: 10% ;
+}
+
+h2 
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
