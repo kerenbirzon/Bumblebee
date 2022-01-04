@@ -1,0 +1,151 @@
+[
+  {
+      "messageName": "message1",
+      "templateSrc": "./templates/templateA.html",
+      "title": "Mexico",
+      "textFields": [
+          "Mexico"
+      ],
+      "images": [
+          "./ServerData/Mexico.png"
+      ],
+      "visableFor": 20,
+      "visableInTimeFrames": [
+          {
+              "weekDays": [
+                  "3",
+                  "4"
+              ],
+              "dateRange": {
+                  "from": "January 1, 2019",
+                  "to": "December 31, 2019"
+              },
+              "dayTimeRange": {
+                  "from": "06:00",
+                  "to": "12:00"
+              }
+          }
+      ],
+      "screens" : ["1","2"]
+  },
+  {
+      "messageName": "message2",
+      "templateSrc": "./templates/templateA.html",
+      "title": "Seychelles",
+      "textFields": [
+          "Seychelles"
+      ],
+      "images": [
+          "./ServerData/Seychelles.png"
+      ],
+      "visableFor": 20,
+      "visableInTimeFrames": [
+          {
+              "weekDays": [
+                  "3",
+                  "4"
+              ],
+              "dateRange": {
+                  "from": "March 1, 2021",
+                  "to": "April 30, 2021"
+              },
+              "dayTimeRange": {
+                  "from": "10:00",
+                  "to": "16:00"
+              }
+          }
+      ],
+      "screens" : ["1","3"]
+
+  },
+  {
+      "messageName": "message3",
+      "templateSrc": "./templates/templateB.html",
+      "title": "Australia",
+      "textFields": [
+          "Australia"
+      ],
+      "images": ["./ServerData/Australia.png"],
+      "visableFor": 20,
+      "visableInTimeFrames": [
+          {
+              "weekDays": [
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7"
+              ],
+              "dateRange": {
+                  "from": "May 1, 2021",
+                  "to": "June 15, 2021"
+              },
+              "dayTimeRange": {
+                  "from": "08:00",
+                  "to": "22:00"
+              }
+          }
+      ],
+      "screens" : ["2","3"]
+
+  },
+  {
+      "messageName": "message4",
+      "templateSrc": "./templates/templateC.html",
+      "title": "Hawaii",
+      "textFields": [
+          "Hawaii"
+      ],
+      "images": ["./ServerData/Hawaii.png"],
+      "visableFor": 20,
+      "visableInTimeFrames": [
+          {
+              "weekDays": [
+                  "3",
+                  "4"
+              ],
+              "dateRange": {
+                  "from": "March 29, 2021",
+                  "to": "April 15, 2021"
+              },
+              "dayTimeRange": {
+                  "from": "15:00",
+                  "to": "19:00"
+              }
+          }
+      ],
+      "screens" : ["1"]
+
+  },
+  {
+      "messageName": "message5",
+      "templateSrc": "./templates/templateC.html",
+      "title": "Corfu",
+      "textFields": [
+          "Corfu"
+      ],
+      "images": ["./ServerData/Corfu.png"],
+      "visableFor": 20,
+      "visableInTimeFrames": [
+          {
+              "weekDays": [
+                  "1",
+                  "3",
+                  "4"
+              ],
+              "dateRange": {
+                  "from": "April 1, 2021",
+                  "to": "April 30, 2021"
+              },
+              "dayTimeRange": {
+                  "from": "01:00",
+                  "to": "23:00"
+              }
+          }
+      ],
+      "screens" : ["3"]
+
+  }
+]
