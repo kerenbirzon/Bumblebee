@@ -72,7 +72,6 @@ export default function CarImageGallery({ id, car }) {
     </>
   );
 }
-
 // const itemData = [
 //   {
 //     img: "/mini.jpeg",

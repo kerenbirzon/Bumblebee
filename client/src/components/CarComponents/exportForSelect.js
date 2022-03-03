@@ -688,4 +688,3 @@ export const carsProperties = {
     "סוזוקי",
     "סיאט",
   ];
-  

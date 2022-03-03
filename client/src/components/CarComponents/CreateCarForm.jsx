@@ -502,7 +502,6 @@ export default function CreateCarForm() {
     );
 }
 
-
   // Category
   //               <FormControl fullWidth disabled={secondStatus}>
   //                 <InputLabel>Category</InputLabel>

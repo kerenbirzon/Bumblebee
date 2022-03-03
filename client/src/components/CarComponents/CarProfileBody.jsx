@@ -95,5 +95,4 @@ export default function CarProfileBody({car}) {
         </div>
       </div>
     );
-
 }

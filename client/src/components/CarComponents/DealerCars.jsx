@@ -26,7 +26,7 @@ export default function DealerCard({firstName, lastName, email ,phoneNumber, ima
       "https://wa.me/" + "+972522520484" + "?text=" + whatsappMassege
     );
   };
-  
+
   return (
     <Card
       className="grid-container"
