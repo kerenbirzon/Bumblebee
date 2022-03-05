@@ -59,8 +59,6 @@ export default function CarCard({ _id, image, company, model, year, used, engine
 
 
 
-
-
 /* 
 <div className="car-card-body">
             <div className="flex-50">
